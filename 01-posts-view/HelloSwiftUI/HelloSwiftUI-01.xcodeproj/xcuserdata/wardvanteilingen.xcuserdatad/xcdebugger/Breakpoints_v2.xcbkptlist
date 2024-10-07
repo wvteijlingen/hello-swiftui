@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "739E8982-95A6-4906-B40E-6A7A5372FD46"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD1BDCE5-FA66-4FA4-B132-603F16AB4E8C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HelloSwiftUI/Views/BlogPosts.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "AD1BDCE5-FA66-4FA4-B132-603F16AB4E8C - 999f3c00478a54ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloSwiftUI.BlogPosts.body.getter : some"
+                  moduleName = "HelloSwiftUI.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wardvanteilingen/Library/CloudStorage/OneDrive-NederlandsePubliekeOmroep/Desktop/HelloSwiftUI/01-posts-view/HelloSwiftUI/HelloSwiftUI/Views/BlogPosts.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9">
+               </Location>
+               <Location
+                  uuid = "AD1BDCE5-FA66-4FA4-B132-603F16AB4E8C - 5709b2555402fd5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of HelloSwiftUI.BlogPosts.header : some&gt;&gt;.0, SwiftUI.Divider, &lt;&lt;opaque return type of HelloSwiftUI.BlogPosts.posts : some&gt;&gt;.0)&gt; in HelloSwiftUI.BlogPosts.body.getter : some"
+                  moduleName = "HelloSwiftUI.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wardvanteilingen/Library/CloudStorage/OneDrive-NederlandsePubliekeOmroep/Desktop/HelloSwiftUI/01-posts-view/HelloSwiftUI/HelloSwiftUI/Views/BlogPosts.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
